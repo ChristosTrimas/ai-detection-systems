@@ -6,3 +6,4 @@ ToDo list:
 					a) Increse the number of epoch in the learning phase.
 					b) Use transfer learning from th COCO dataset.
 					c) Use other models.
+4) Create bash script and python scripts to automate inference and/or training.
