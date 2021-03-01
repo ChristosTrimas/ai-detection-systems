@@ -5,4 +5,8 @@ Various known object detection models will be compared with traditional techniqu
 
 # Models
 
-- RetinaNet: 
+- RetinaNet: A well-known single-stage detector, RetinaNet uses a Feature Pyramid Network or FPN on top of a ResNet, as backbone. To the FPN, tow Fully Connected Networks are attached, one for classification and one for bounding box reggresion. The authors of RetinaNet, introduced Focal Loss, a modified Cross Entropy Loss function, that performs better than CE for dense objects.
+
+- ?
+
+# Results
