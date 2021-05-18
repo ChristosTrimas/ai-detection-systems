@@ -1,9 +1,0 @@
-ToDo list:
-
-1) Test the trained model in a dataset in woods and mountains where there are people.
-2) Fix the data to only contain humans and no Cars.
-3) Increase accuracy: 
-					a) Increse the number of epoch in the learning phase.
-					b) Use transfer learning from th COCO dataset.
-					c) Use other models.
-4) Create bash script and python scripts to automate inference and/or training.
