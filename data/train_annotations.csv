@@ -47,7 +47,7 @@ imgs/train/hyang_video6_3880.jpg,654,197,708,238,Person
 imgs/train/deathCircle_video0_12240.jpg,1383,1237,1414,1278,Person
 imgs/train/deathCircle_video0_6320.jpg,821,1241,855,1278,Person
 imgs/train/gates_video3_1200.jpg,190,729,282,855,Person
-imgs/train/bookstore_video0_10040.jpg,506,516,557,580,Cart
+imgs/train/bookstore_video0_10040.jpg,506,516,557,580,Car
 imgs/train/bookstore_video0_4280.jpg,905,92,939,142,Person
 imgs/train/hyang_video5_2800.jpg,1334,1078,1379,1153,Person
 imgs/train/bookstore_video0_11800.jpg,688,786,763,850,Person
@@ -426,7 +426,7 @@ imgs/train/deathCircle_video0_12120.jpg,889,1513,925,1574,Person
 imgs/train/deathCircle_video2_320.jpg,582,1403,608,1461,Person
 imgs/train/bookstore_video0_12560.jpg,935,936,975,974,Person
 imgs/train/hyang_video5_6280.jpg,751,1148,801,1290,Person
-imgs/train/deathCircle_video2_280.jpg,767,669,827,750,Cart
+imgs/train/deathCircle_video2_280.jpg,767,669,827,750,Car
 imgs/train/gates_video3_1520.jpg,272,542,332,650,Person
 imgs/train/coupa_video1_6520.jpg,57,448,112,491,Person
 imgs/train/bookstore_video0_11400.jpg,524,949,567,999,Person
@@ -847,7 +847,7 @@ imgs/train/deathCircle_video0_960.jpg,1390,1107,1439,1168,Person
 imgs/train/deathCircle_video0_9680.jpg,692,1197,740,1278,Person
 imgs/train/little_video0_1040.jpg,423,1249,464,1350,Person
 imgs/train/gates_video3_1600.jpg,1231,1042,1290,1159,Person
-imgs/train/bookstore_video0_8960.jpg,1198,131,1247,176,Cart
+imgs/train/bookstore_video0_8960.jpg,1198,131,1247,176,Car
 imgs/train/coupa_video2_4240.jpg,1754,849,1806,899,Person
 imgs/train/gates_video3_3560.jpg,1344,1059,1380,1113,Person
 imgs/train/deathCircle_video0_1520.jpg,328,1022,378,1071,Person
@@ -869,7 +869,7 @@ imgs/train/bookstore_video3_14280.jpg,1160,829,1200,885,Person
 imgs/train/hyang_video6_1960.jpg,645,192,700,242,Person
 imgs/train/bookstore_video3_920.jpg,1213,708,1272,764,Person
 imgs/train/deathCircle_video0_480.jpg,728,1205,760,1262,Person
-imgs/train/deathCircle_video2_120.jpg,618,1897,646,1946,Cart
+imgs/train/deathCircle_video2_120.jpg,618,1897,646,1946,Car
 imgs/train/coupa_video1_3200.jpg,1168,842,1232,885,Person
 imgs/train/deathCircle_video0_11200.jpg,1023,1095,1064,1152,Person
 imgs/train/bookstore_video1_1320.jpg,207,917,296,986,Person
@@ -933,7 +933,7 @@ imgs/train/deathCircle_video0_5880.jpg,326,1156,357,1209,Person
 imgs/train/bookstore_video0_2480.jpg,365,986,403,1024,Person
 imgs/train/bookstore_video0_6640.jpg,530,791,583,831,Person
 imgs/train/bookstore_video0_6160.jpg,893,704,969,757,Person
-imgs/train/deathCircle_video0_7040.jpg,210,1136,260,1193,Cart
+imgs/train/deathCircle_video0_7040.jpg,210,1136,260,1193,Car
 imgs/train/bookstore_video0_7720.jpg,284,967,326,1006,Person
 imgs/train/hyang_video6_4160.jpg,778,238,806,275,Person
 imgs/train/coupa_video3_30.jpg,1295,159,1331,198,Person
@@ -988,7 +988,7 @@ imgs/train/gates_video3_6200.jpg,409,1710,461,1789,Person
 imgs/train/deathCircle_video0_2400.jpg,907,1140,948,1205,Person
 imgs/train/bookstore_video1_210.jpg,450,1018,493,1076,Person
 imgs/train/deathCircle_video0_1840.jpg,97,1107,138,1168,Person
-imgs/train/deathCircle_video2_200.jpg,815,910,875,991,Cart
+imgs/train/deathCircle_video2_200.jpg,815,910,875,991,Car
 imgs/train/gates_video3_2120.jpg,785,1330,843,1426,Person
 imgs/train/bookstore_video3_9200.jpg,1039,411,1094,467,Person
 imgs/train/deathCircle_video0_2920.jpg,690,1176,722,1249,Person
@@ -1001,7 +1001,6 @@ imgs/train/coupa_video2_6560.jpg,2,913,41,951,Person
 imgs/train/coupa_video2_800.jpg,1507,676,1567,735,Person
 imgs/train/deathCircle_video0_4640.jpg,815,982,880,1055,Person
 imgs/train/hyang_video5_3480.jpg,157,958,193,1024,Person
-imgs/train/gates_video4_1400.jpg,1278,1028,1410,1085,Bus
 imgs/train/deathCircle_video0_960.jpg,1455,1111,1512,1168,Person
 imgs/train/coupa_video1_7840.jpg,1702,47,1782,102,Person
 imgs/train/bookstore_video3_80.jpg,1189,143,1230,211,Person
@@ -1023,7 +1022,6 @@ imgs/train/gates_video4_320.jpg,858,1341,894,1432,Person
 imgs/train/gates_video3_2360.jpg,175,817,278,913,Person
 imgs/train/gates_video3_2600.jpg,161,850,254,942,Person
 imgs/train/gates_video3_1200.jpg,75,592,151,684,Person
-imgs/train/gates_video4_1920.jpg,1272,1015,1414,1106,Bus
 imgs/train/coupa_video1_6360.jpg,264,200,346,241,Person
 imgs/train/coupa_video1_8240.jpg,1776,0,1848,38,Person
 imgs/train/deathCircle_video0_9280.jpg,731,1087,774,1152,Person
