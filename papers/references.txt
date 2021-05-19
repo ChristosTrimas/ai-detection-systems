@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Object_detection
+https://www.tensorflow.org/lite/models/object_detection/overview
+https://arxiv.org/pdf/1612.03144.pdf
+https://arxiv.org/pdf/1708.02002.pdf
+https://arxiv.org/pdf/1512.03385.pdf
+https://arxiv.org/pdf/1911.10739.pdf
+https://cvgl.stanford.edu/projects/uav_data/
+https://github.com/tzutalin/labelImg
