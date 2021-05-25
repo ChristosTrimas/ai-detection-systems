@@ -1,3 +1,4 @@
+Need update
 22673 Person
 11749 Biker
 1155+266 Car
@@ -15,8 +16,8 @@ Classifier/Regressor changes
 
 --------------------------
 
-Practical work()
+Practical work(2/3)
 
-7-fold CV
+5-fold CV
 Simple split
 Confusion Matrix for each class.
