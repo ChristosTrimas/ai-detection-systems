@@ -8,16 +8,17 @@ Need update
 
 Theoretical work()
 
-How Residual Networks work?
-How R-CNN/Fast/Faster R-CNN works?
-FeaturePyramidNetwork how it actually works and possible change?
-CNNs
-Classifier/Regressor changes
-
+A few things about anchors()
+Zervakis Papers()
+How Residual Networks work?(done)
+How R-CNN/Fast/Faster R-CNN works?(done)
+FeaturePyramidNetwork how it actually works and possible change?(done)
+CNNs(done)
+FCNN(done)
 --------------------------
 
-Practical work(2/3)
+Practical work(0/3)
 
-5-fold CV
-Simple split
-Confusion Matrix for each class.
+5-fold CV()
+Simple split()
+Confusion Matrix for each class()
