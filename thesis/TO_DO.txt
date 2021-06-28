@@ -9,7 +9,6 @@ Need update
 Theoretical work()
 
 A few things about anchors()
-Zervakis Papers()
 How Residual Networks work?(done)
 How R-CNN/Fast/Faster R-CNN works?(done)
 FeaturePyramidNetwork how it actually works and possible change?(done)
