@@ -1,4 +1,3 @@
-+ External Links for Images
 + fix content and references
 + fix image of new model
 
