@@ -1,9 +1,0 @@
-Demo videos
-Add more examples of detection
-Write down the mAP not weighted
-Write the comparison with other models
-Write Chapter 10
-Write Chapter 11
-Write Abstract
-Fixes
-Finish presentation

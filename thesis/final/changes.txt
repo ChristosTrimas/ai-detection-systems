@@ -1,9 +1,0 @@
-+ fix image of new model
-
-
-
-
-
--reference images in presentation
--Προσθηκη σε ποιο κομματι της παρουσιασης ειμαστε
--εικονα διπλωματικης
